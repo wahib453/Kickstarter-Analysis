@@ -14,7 +14,7 @@ The challenges envountered include using the CountIFs() and following the instru
 
 ### Analysis of Outcomes Based on Launch Date
 Theater Launched in May is more successful than other months. December is the month with the lowest success rate recorded. However, it's still higher compare to those that failed and those that got canceled in December. 
-![Theater_Outcomes_vs_Launch.png](C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/69058584/103737594-17fd8700-4fb8-11eb-8c3b-e57581ab8c75.png)
 
 ### Analysis of Outcomes Based on Goals
 A goal set between less than a 1000 dollars and $19999 produced unstable success rate. But looking further down the chat, we see a goal set between $35000 and $44999, yielded 67% stable success rate, and any amount above $44999 is 100 percent failure.
