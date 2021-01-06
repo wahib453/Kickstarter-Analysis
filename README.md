@@ -18,7 +18,7 @@ Theater Launched in May is more successful than other months. December is the mo
 
 ### Analysis of Outcomes Based on Goals
 A goal set between less than a 1000 dollars and $19999 produced unstable success rate. But looking further down the chat, we see a goal set between $35000 and $44999, yielded 67% stable success rate, and any amount above $44999 is 100 percent failure.
-![Outcomes_vs_Goals.png](C:\Users\Sa2di\Desktop\Class Modules Folder\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/69058584/103737626-23e94900-4fb8-11eb-9560-2945cb06ee0d.png)
 
 
 ### Challenges and Difficulties Encountered
