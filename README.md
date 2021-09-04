@@ -1,16 +1,19 @@
-# Kickstarting with Excel
+# An Analysis of Kickstarting Campaigns
 
 ## Overview of Project
-Louise needs fund for her play titled, Fever. So she organized a fund-raising  campaign to raise some funds. She wanted to know how to go about fully maximizing the campaign.
+
+Louise, an upcoming playright, needs over $10,ooo for her play, *Fever*. Before she can launch her first campaign, she need help with tips to watchout that make a campaign succesfull.
 
 ### Purpose
-To leverage the power of Excel in analyzing and visualizating campaign outcomes based on their launch dates and their funding goals
 
+1. Use Excel and visualize campaign outcomes based on their launch dates and their funding goals.
+2. Write a report of the findings above including the visualizations.
 
 ## Analysis and Challenges
-There are two analysis conducted: Outcomes Based on Launch Date and Outcomes Based on Goals. Outcomes Based on Launched Date analyzes the Outcomes of launching a theater in a particular month. Outcomes Based on Goals analyzes set of amount goals over percentage successful, failed, and canceled.
 
-The challenges envountered include using the CountIFs() and following the instruction statement. 
+There are two analysis conducted: Outcomes Based on Launch Date and Outcomes Based on Goals. Outcomes Based on Launched Date analyzes the Outcomes of launching a theater in a particular month. Outcomes Based on Goals analyzes set of amount goals over percentage successful, failed, and canceled
+
+The challenges envountered include using the CountIFs() and following the instruction statement.
 
 ### Analysis of Outcomes Based on Launch Date
 Theater Launched in May is more successful than other months. December is the month with the lowest success rate recorded. However, it's still higher compare to those that failed and those that got canceled in December. 
