@@ -7,7 +7,7 @@ Use Excel advanced tools to visualize and analyze campaign outcomes based on the
 ## Analysis and Challenges
 
 I made two observations based on the month with the most significant success launch date and the set of goals that make a successful date possible. I observed the annual theater launched from 2009 to 2017 and compared between the month with the most or at least successful launched date to the least.
-![Theater Outcome based on launch date for 2009]("Resources\Theater Outcome based on launched date for 2009.png") The assumption is that the month with the most success launched rate indicates more theaters. Thus more plays were performed. I also observed the set of goals that yield high success rate and lower fail rate.
+![Theater Outcome based on launch date for 2009](https://github.com/wahib453/Kickstarter-Analysis/blob/8118396213482996d35d20e19065a2fe673f7ee8/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202009.png) The assumption is that the month with the most success launched rate indicates more theaters. Thus more plays were performed. I also observed the set of goals that yield high success rate and lower fail rate.
 
 The challenges encountered include using the CountIFs() and following the instruction statement.
 
