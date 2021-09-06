@@ -23,7 +23,7 @@ A goal set between less than a 1000 dollars and $19999 produced unstable success
 
 ### Challenges and Difficulties Encountered
 
-The serious challenge I encountered was using the CountIFs(). I was not sure as to how to go about typing the syntax. Also, some of the instructions are not vividly stated. 
+The serious challenge I encountered was using the CountIFs(). I was not sure about how to go about typing the syntax. Also, some of the instructions are not vividly stated.
 
 Watching a video on how to use the CountIFs() and discussing with colleagues helped overcome the challenges.
 
@@ -36,7 +36,7 @@ There's a higher success rate launching a theater in May than other months.Decem
 A goal set between $35000 and $44999 is 67% successful and stable than any other goal amount.
 
 - What are some limitations of this dataset?
-The data may not represent a real world data and may not be applicable to real world scenario. There are outliers in the dataset
+The data may not represent a real world data and may not be applicable to real world scenario. Outliers in the dataset.
 
 - What are some other possible tables and/or graphs that we could create?
 Country vs Pledge
