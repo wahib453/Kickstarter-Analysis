@@ -14,7 +14,7 @@ Two analysis were performed. One analysis performed is observing the consistency
 
 #### Theater Outcome based on launched date for 2009
 
-![**Theater Outcome based on launch date for 2009**](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202009.png)
+![Theater Outcome based on launch date for 2009](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202009.png)
 
 #### Theater Outcome based on launched date for 2010
 
