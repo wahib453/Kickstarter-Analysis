@@ -1,5 +1,7 @@
 # An Analysis of Kickstarting Campaigns
 
+***
+
 ## Overview of Project
 
 Use Excel advanced tools to visualize and analyze campaign outcomes based on their launch dates and their funding goals to help Louise, an upcoming playwright, plan and launch their first fund raising campaign for their play, *Fever*. Then write a report of the findings.
@@ -8,7 +10,7 @@ Use Excel advanced tools to visualize and analyze campaign outcomes based on the
 
 ### Analysis
 
-I made two observations based on the month with the most significant success launch date and the set of goals that make a successful date possible. I observed the annual theater launched from 2009 to 2017 and compared between the month with the most or at least successful launched date to the least. Here are the screenshots of the respective launched campaign outcomes:
+Two observations were made. One observation is based on the month with the most significant successful theater launched date. The other observation made is based on how different set of funding goals were met. I observed the annual theater launched from 2009 to 2017 and compared between the month with the most or at least successful launched date to the least. Here are the screenshots of the respective launched campaign outcomes:
 
 #### Theater Outcome based on launched date for 2009
 
