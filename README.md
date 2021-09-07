@@ -14,7 +14,7 @@ Two observations were made. One observation is based on the month with the most 
 
 #### Theater Outcome based on launched date for 2009
 
-![Theater Outcome based on launch date for 2009](..\Resources\TheaterOutcomebasedonlauncheddatefor2009).
+![Theater Outcome based on launch date for 2009](/Kickstarter-Analysis/Resources/Theater%10Outcome%10based%10on%10launched%10date%10for%102009.png).
 
 #### Theater Outcome based on launched date for 2010
 
