@@ -14,39 +14,39 @@ Two observations were made. One observation is based on the month with the most 
 
 #### Theater Outcome based on launched date for 2009
 
-![Theater Outcome based on launch date for 2009](/Kickstarter-Analysis/Resources/Theater%10Outcome%10based%10on%10launched%10date%10for%102009.png).
+![Theater Outcome based on launch date for 2009](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202009.png)
 
 #### Theater Outcome based on launched date for 2010
 
-![Theater Outcome based on launched date for 2010](\Resources\TheaterOutcomebasedonlauncheddatefor2010.png)
+![Theater Outcome based on launched date for 2010](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202010.png)
 
 #### Theater Outcome based on launched date for 2011
 
-![Theater Outcome based on launched date for 2011](\Resources\TheaterOutcomebasedonlauncheddatefor2011.png)
+![Theater Outcome based on launched date for 2011](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202011.png)
 
 #### Theater Outcome based on launched date for 2012
 
-![Theater Outcome based on launched date for 2012](\Resources\TheaterOutcomebasedonlauncheddatefor2012.png)
+![Theater Outcome based on launched date for 2012](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202012.png)
 
 #### Theater Outcome based on launched date for 2013
 
-![Theater Outcome based on launched date for 2013](\Resources\TheaterOutcomebasedonlauncheddatefor2013.png)
+![Theater Outcome based on launched date for 2013](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202013.png)
 
 #### Theater Outcome based on launched date for 2014
 
-![Theater Outcome based on launched date for 2014](\Resources\TheaterOutcomebasedonlauncheddatefor2014.png)
+![Theater Outcome based on launched date for 2014](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202014.png)
 
 #### Theater Outcome based on launched date for 2015
 
-![Theater Outcome based on launched date for 2015](\Resources\TheaterOutcomebasedonlauncheddatefor2015.png)
+![Theater Outcome based on launched date for 2015](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202015.png)
 
 #### Theater Outcome based on launched date for 2016
 
-![Theater Outcome based on launched date for 2016](\Resources\TheaterOutcomebasedonlauncheddatefor2016.png)
+![Theater Outcome based on launched date for 2016](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202016.png)
 
 #### Theater Outcome based on launched date for 2017
 
-![Theater Outcome based on launched date for 2017](\Resources\TheaterOutcomebasedonlauncheddatefor2017.png).
+![Theater Outcome based on launched date for 2017](/Resources/Theater%10Outcome%10based%10on%10launched%10date%10for%102017.png).
 
 The assumption is that the month with the most success launched rate indicates more theaters. Thus more plays were performed. I also observed the set of goals that yield high success rate and lower fail rate. Lower campaign goals attract high success rate.
 
