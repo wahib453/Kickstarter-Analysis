@@ -14,7 +14,7 @@ Two observations were made. One observation is based on the month with the most 
 
 #### Theater Outcome based on launched date for 2009
 
-![Theater Outcome based on launch date for 2009](\Resources\TheaterOutcomebasedonlauncheddatefor2009).
+![Theater Outcome based on launch date for 2009](..\Resources\TheaterOutcomebasedonlauncheddatefor2009).
 
 #### Theater Outcome based on launched date for 2010
 
