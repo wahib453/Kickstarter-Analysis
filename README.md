@@ -46,7 +46,7 @@ Two observations were made. One observation is based on the month with the most 
 
 #### Theater Outcome based on launched date for 2017
 
-![Theater Outcome based on launched date for 2017](/Resources/Theater%10Outcome%10based%10on%10launched%10date%10for%102017.png).
+![Theater Outcome based on launched date for 2017](/Resources/Theater%20Outcome%20based%20on%20launched%20date%20for%202017.png).
 
 The assumption is that the month with the most success launched rate indicates more theaters. Thus more plays were performed. I also observed the set of goals that yield high success rate and lower fail rate. Lower campaign goals attract high success rate.
 
