@@ -55,7 +55,7 @@ There were two challenges encountered. First challenge encountered is figuring h
 ## Results
 
 1. What are two conclusions you can draw about the Outcomes based on Launch Date?
-    * There are significant indications of higher success rates when theaters are launched around **May** than most months in a year. December shows the worst month to launch a theater.
+    * There are significant indications of higher success rates when theaters are launched around **May** than some other months in a year. December shows the worst month to launch a theater.
     ![**Theater_Outcomes_vs_Launch**](/Resources/Theater_Outcomes_vs_Launch.png)
     * Funding goals set between $0 and $4999 produces 70 percent of success but lower percent of fail compared to goals set between $5000 and above that comes with high percent of fail. For example, goals set between $45000 and $49999 has a 100 percent fail.
     ![**Outcomes_vs_Goals**](/Resources/Outcomes_vs_Goals.png)
