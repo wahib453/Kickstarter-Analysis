@@ -4,7 +4,7 @@
 
 ## Overview of Project
 
-Use Excel advanced tools to visualize and analyze campaign outcomes based on their launch dates and their funding goals to help Louise, an upcoming playwright, plan and launch their first fund raising campaign for their play, *Fever*. Then write a report of the findings.
+Use Excel advanced tools to visualize and analyze a campaign outcomes based on launched dates and funding goals to help Louise, an upcoming playwright, plan and launch her first fund raising campaign for her play, *Fever*. Then write a report of the findings.
 
 ## Analysis and Challenges
 
